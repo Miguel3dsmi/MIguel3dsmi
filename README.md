@@ -24,26 +24,10 @@
 ## Reach me 📬
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/miguel-corrêa-da-silva-a4a489274" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="SEU_LINK_DUOLINGO" target="_blank">
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo">
-  </a>
+  <div> 
+    <img src="https://github.com/MIguel3dsmi/MIguel3dsmi/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  </div>
 </p>
- 
-### Pra conteúdo sobre programação, segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://www.linkedin.com/in/miguel-corrêa-da-silva-a4a489274/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-  <br><br>
-  <img src="https://github.com/MIguel3dsmi/MIguel3dsmi/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
