@@ -1,4 +1,4 @@
-# ✨ Hello there, eu sou o Miguel! ✨
+# ✨ Hello there, i'm Miguel! ✨
 
 - 🎓 Systems analysis and development Student at IFRS.
 - 💡 Passionate about programming, machine learning, data science.
